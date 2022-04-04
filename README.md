@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+<!---Full Stack Developer | Automation | Web Scraping -->
 
 - 🔭 I’m currently working on my [Android app](https://play.google.com/store/apps/details?id=fr.harkame.blacklister)
 - 🌱 I’m currently learning Video Game programming with Unity
@@ -12,5 +12,4 @@ Here are some ideas to get you started:
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" />
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" />
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" />
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" />
 </p>  
