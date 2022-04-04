@@ -5,6 +5,12 @@
 - 🔭 I’m currently working on my [Android app](https://play.google.com/store/apps/details?id=fr.harkame.blacklister)
 - 🌱 I’m currently learning Video Game programming with Unity
 
+## OS
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+</p>
+
 ## Languages
 
 <p align="center">
