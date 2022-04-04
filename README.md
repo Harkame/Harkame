@@ -3,7 +3,7 @@
 <!---Full Stack Developer | Automation | Web Scraping -->
 
 - 🔭 I’m currently working on my [Android app](https://play.google.com/store/apps/details?id=fr.harkame.blacklister)
-- 🌱 I’m currently learning Video Game programming with Unity
+- 🌱 I’m currently learning Video Game programming with <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 
 ## OS
 <p align="center">
