@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<!---Full Stack Developer | Automation | Web Scraping -->
+### Full Stack Developer | Automation | Web Scraping
 
 - 🔭 I’m mainly working on my [Android app](https://play.google.com/store/apps/details?id=fr.harkame.blacklister)
 
