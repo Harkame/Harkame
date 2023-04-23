@@ -1,8 +1,5 @@
 ### Full Stack Developer | Automation | Web Scraping
 
-- 🔭 I’m mainly working on my [Android app](https://play.google.com/store/apps/details?id=fr.harkame.blacklister)
-
-
 ### Fav languages
 <p align="center">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" />
